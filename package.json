@@ -1,0 +1,9 @@
+{
+  "name": "tokoyuna-demo-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "TokoYuna demo order backend; no live payment or top-up provider connected.",
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  }
+}
